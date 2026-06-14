@@ -32,7 +32,7 @@ This repository contains research papers, whitepapers, presentations, and concep
 
 A conceptual framework integrating enterprise data, knowledge intelligence, advanced analytics, and Agentic AI capabilities to support strategic, operational, and workforce decision-making.
 
-📄 Enterprise Decision Intelligence Framework.pdf
+[Enterprise Decision Intelligence Framework.pdf](Enterprise%20Decision%20Intelligence%20Framework.pdf)
 
 ---
 
@@ -42,7 +42,7 @@ A conceptual framework integrating enterprise data, knowledge intelligence, adva
 
 A conceptual framework for implementing autonomous multi-agent intelligence within enterprise environments. The framework explores enterprise orchestration, governance, workforce intelligence, service delivery optimization, knowledge systems, and strategic planning through collaborative AI agents.
 
-📄 Agentic_AI_for_Enterprise_Systems.pdf
+ [Agentic_AI_for_Enterprise_Systems.pdf](Agentic_AI_for_Enterprise_Systems.pdf)
 
 ---
 ## Upcoming Publications
