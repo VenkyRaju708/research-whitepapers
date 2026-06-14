@@ -45,31 +45,33 @@ A conceptual framework for implementing autonomous multi-agent intelligence with
 📄 Agentic_AI_for_Enterprise_Systems.pdf
 
 ---
+## Upcoming Publications
 
-## Research Focus Areas
+### Enterprise Knowledge Systems:
+A Framework for AI-Augmented Organizational Intelligence
 
-* Enterprise Decision Intelligence
-* Agentic AI Frameworks
-* Workforce Optimization
-* Talent Intelligence
-* Enterprise Knowledge Systems
-* Intelligent Enterprise Operations
-* AI-Augmented Project Delivery
-* Enterprise SaaS Platforms
-* Human-Centered AI Systems
+**Focus Areas**
 
----
-
-## Future Research Topics
-
-* AI-Augmented Workforce Optimization
-* Intelligent Enterprise Operations
-* Enterprise Knowledge Systems
-* Multi-Agent Business Operations
-* Decision Intelligence Architectures
-* Autonomous Enterprise Platforms
+- Knowledge Graphs
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Enterprise Search
+- Agentic Knowledge Systems
+- Organizational Intelligence
 
 ---
+
+### AI-Augmented Workforce Optimization:
+A Framework for Talent Intelligence and Human-AI Collaboration
+
+**Focus Areas**
+
+- Talent Intelligence
+- Workforce Planning
+- Skills Intelligence
+- Workforce Analytics
+- Human-AI Collaboration
+- Agentic Workforce Systems
 
 ## About
 
