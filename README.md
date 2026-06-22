@@ -6,6 +6,7 @@ This repository contains research papers, whitepapers, presentations, and concep
 
 * Enterprise Decision Intelligence
 * Agentic AI
+* Enterprise Knowledge Systems
 * Talent Intelligence
 * Enterprise Systems
 * Digital Transformation
@@ -32,7 +33,7 @@ This repository contains research papers, whitepapers, presentations, and concep
 
 A conceptual framework integrating enterprise data, knowledge intelligence, advanced analytics, and Agentic AI capabilities to support strategic, operational, and workforce decision-making.
 
-[Enterprise Decision Intelligence Framework.pdf](Enterprise%20Decision%20Intelligence%20Framework.pdf)
+📄 [Enterprise Decision Intelligence Framework.pdf](Enterprise%20Decision%20Intelligence%20Framework.pdf)
 
 ---
 
@@ -42,36 +43,36 @@ A conceptual framework integrating enterprise data, knowledge intelligence, adva
 
 A conceptual framework for implementing autonomous multi-agent intelligence within enterprise environments. The framework explores enterprise orchestration, governance, workforce intelligence, service delivery optimization, knowledge systems, and strategic planning through collaborative AI agents.
 
- [Agentic_AI_for_Enterprise_Systems.pdf](Agentic_AI_for_Enterprise_Systems.pdf)
+📄 [Agentic_AI_for_Enterprise_Systems.pdf](Agentic_AI_for_Enterprise_Systems.pdf)
 
 ---
+
+### Enterprise Knowledge Systems: A Framework for AI-Augmented Organizational Intelligence
+
+**Author:** Venkatraman Viswanathan
+
+A seven-layer enterprise knowledge architecture integrating Knowledge Graphs, Retrieval-Augmented Generation (RAG), Vector Databases, Agentic AI, and Decision Support Systems to transform organizational knowledge into actionable enterprise intelligence.
+
+📄 [Enterprise_Knowledge_Systems_Framework.pdf](Enterprise_Knowledge_Systems_Framework.pdf)
+
+---
+
 ## Upcoming Publications
 
-### Enterprise Knowledge Systems:
-A Framework for AI-Augmented Organizational Intelligence
-
-**Focus Areas**
-
-- Knowledge Graphs
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- Enterprise Search
-- Agentic Knowledge Systems
-- Organizational Intelligence
-
----
-
 ### AI-Augmented Workforce Optimization:
+
 A Framework for Talent Intelligence and Human-AI Collaboration
 
 **Focus Areas**
 
-- Talent Intelligence
-- Workforce Planning
-- Skills Intelligence
-- Workforce Analytics
-- Human-AI Collaboration
-- Agentic Workforce Systems
+* Talent Intelligence
+* Workforce Planning
+* Skills Intelligence
+* Workforce Analytics
+* Human-AI Collaboration
+* Agentic Workforce Systems
+
+---
 
 ## About
 
