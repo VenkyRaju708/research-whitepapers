@@ -1,44 +1,40 @@
 ## Research Papers & Whitepapers
 
-### Enterprise Decision Intelligence Framework (Version 1.0)
+### 1. Enterprise Decision Intelligence Framework (Version 1.0)
 
-A five-layer framework for AI-driven enterprise decision-making.
+A five-layer framework for AI-driven enterprise decision-making that integrates enterprise data, analytics, knowledge, and intelligent decision support.
 
-📄 Enterprise_Decision_Intelligence_Framework.pdf
-
----
-
-### Agentic AI for Enterprise Systems (Version 1.0)
-
-A framework for autonomous multi-agent enterprise architectures.
-
-📄 Agentic_AI_for_Enterprise_Systems.pdf
+📄 [Enterprise Decision Intelligence Framework (PDF)](Enterprise_Decision_Intelligence_Framework.pdf)
 
 ---
 
-### Enterprise Knowledge Systems (Version 1.0)
+### 2. Agentic AI for Enterprise Systems (Version 1.0)
 
-A seven-layer enterprise knowledge architecture integrating Knowledge Graphs, RAG, Vector Databases, and Agentic AI.
+A framework for autonomous multi-agent enterprise architectures, intelligent orchestration, governance, and AI-enabled business operations.
 
-📄 Enterprise_Knowledge_Systems_Framework.pdf
-
----
-
-### AI-Augmented Workforce Optimization (Version 1.0)
-
-A six-layer framework for Talent Intelligence, Skills Intelligence, Human-AI Collaboration, Predictive Workforce Analytics, and Agentic Workforce Systems that completes the Enterprise AI Architecture research series.
-
-📄 AI_Augmented_Workforce_Optimization.pdf
+📄 [Agentic AI for Enterprise Systems (PDF)](Agentic_AI_for_Enterprise_Systems.pdf)
 
 ---
 
-## About
+### 3. Enterprise Knowledge Systems (Version 1.0)
 
-The materials in this repository represent independent research, conceptual frameworks, and thought leadership contributions intended to advance discussion and innovation in Artificial Intelligence, Enterprise Systems, and Decision Intelligence.
+A seven-layer enterprise knowledge architecture integrating Knowledge Graphs, Retrieval-Augmented Generation (RAG), Vector Databases, and Agentic AI.
+
+📄 [Enterprise Knowledge Systems Framework (PDF)](Enterprise_Knowledge_Systems_Framework.pdf)
 
 ---
 
-## Professional Links
+### 4. AI-Augmented Workforce Optimization (Version 1.0)
+
+A six-layer framework for Talent Intelligence, Skills Intelligence, Human-AI Collaboration, Predictive Workforce Analytics, and Agentic Workforce Systems.
+
+📄 [AI-Augmented Workforce Optimization (PDF)](AI_Augmented_Workforce_Optimization.pdf)
+
+About
+
+The materials in this repository represent independent research, technical whitepapers, and conceptual frameworks intended to advance discussion and innovation in Artificial Intelligence, Enterprise Systems, Enterprise Decision Intelligence, and AI-enabled Digital Transformation.
+
+Professional Links
 
 🌐 Website: https://venkatramanlabs.com
 
