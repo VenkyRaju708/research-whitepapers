@@ -1,76 +1,34 @@
-# Research Whitepapers
-
-This repository contains research papers, whitepapers, presentations, and conceptual frameworks focused on Artificial Intelligence, Enterprise Systems, Decision Intelligence, and Digital Transformation.
-
-## Research Domains
-
-* Enterprise Decision Intelligence
-* Agentic AI
-* Enterprise Knowledge Systems
-* Talent Intelligence
-* Enterprise Systems
-* Digital Transformation
-* AI-Augmented Decision Making
-
----
-
-## Author
-
-**Venkatraman Viswanathan**
-
-* PMP® (Project Management Professional)
-* IEEE Senior Member
-* Fellow of the Royal Society of Arts (FRSA)
-* Fellow of IETE (FIETE)
-
----
-
-## Available Publications
+## Research Papers & Whitepapers
 
 ### Enterprise Decision Intelligence Framework (Version 1.0)
 
-**Author:** Venkatraman Viswanathan
+A five-layer framework for AI-driven enterprise decision-making.
 
-A conceptual framework integrating enterprise data, knowledge intelligence, advanced analytics, and Agentic AI capabilities to support strategic, operational, and workforce decision-making.
-
-📄 [Enterprise Decision Intelligence Framework.pdf](Enterprise%20Decision%20Intelligence%20Framework.pdf)
+📄 Enterprise_Decision_Intelligence_Framework.pdf
 
 ---
 
 ### Agentic AI for Enterprise Systems (Version 1.0)
 
-**Author:** Venkatraman Viswanathan
+A framework for autonomous multi-agent enterprise architectures.
 
-A conceptual framework for implementing autonomous multi-agent intelligence within enterprise environments. The framework explores enterprise orchestration, governance, workforce intelligence, service delivery optimization, knowledge systems, and strategic planning through collaborative AI agents.
-
-📄 [Agentic_AI_for_Enterprise_Systems.pdf](Agentic_AI_for_Enterprise_Systems.pdf)
+📄 Agentic_AI_for_Enterprise_Systems.pdf
 
 ---
 
-### Enterprise Knowledge Systems: A Framework for AI-Augmented Organizational Intelligence
+### Enterprise Knowledge Systems (Version 1.0)
 
-**Author:** Venkatraman Viswanathan
+A seven-layer enterprise knowledge architecture integrating Knowledge Graphs, RAG, Vector Databases, and Agentic AI.
 
-A seven-layer enterprise knowledge architecture integrating Knowledge Graphs, Retrieval-Augmented Generation (RAG), Vector Databases, Agentic AI, and Decision Support Systems to transform organizational knowledge into actionable enterprise intelligence.
-
-📄 [Enterprise_Knowledge_Systems_Framework.pdf](Enterprise_Knowledge_Systems_Framework.pdf)
+📄 Enterprise_Knowledge_Systems_Framework.pdf
 
 ---
 
-## Upcoming Publications
+### AI-Augmented Workforce Optimization (Version 1.0)
 
-### AI-Augmented Workforce Optimization:
+A six-layer framework for Talent Intelligence, Skills Intelligence, Human-AI Collaboration, Predictive Workforce Analytics, and Agentic Workforce Systems that completes the Enterprise AI Architecture research series.
 
-A Framework for Talent Intelligence and Human-AI Collaboration
-
-**Focus Areas**
-
-* Talent Intelligence
-* Workforce Planning
-* Skills Intelligence
-* Workforce Analytics
-* Human-AI Collaboration
-* Agentic Workforce Systems
+📄 AI_Augmented_Workforce_Optimization.pdf
 
 ---
 
